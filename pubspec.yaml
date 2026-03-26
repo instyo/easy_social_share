@@ -25,5 +25,3 @@ flutter:
       android:
         package: com.usefulteam.easy_social_share
         pluginClass: EasySocialSharePlugin
-      ios:
-        pluginClass: EasySocialSharePlugin
